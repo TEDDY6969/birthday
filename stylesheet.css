@@ -1288,7 +1288,7 @@ audio {
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
-        background-color: #466baf;
+        background-color: #FEC5E5;
 }
     .btn-primary:hover,
     .btn-primary:focus,
@@ -1297,7 +1297,7 @@ audio {
     .open .dropdown-toggle.btn-primary {
         border-color: #fff;
         color: #fff;
-        background-color: #466baf;
+        background-color: #FEC5E5;
     }
 
 
